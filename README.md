@@ -29,14 +29,9 @@ Welcome to Bidding Wars were you can bid on all the best items and try to get th
 <details>
   <summary>:bar_chart: ERD</summary>
 
-| Description  | Screenshot |
-| :----------: | ---------- |
-| <h3>ERD</h3> | <img       |
-
-    src="https://i.imgur.com/bKFV2eb.png"
-    width="700"
-
-/>
+| Description  | Screenshot                                            |
+| :----------: | ----------------------------------------------------- |
+| <h3>ERD</h3> | <img src="https://i.imgur.com/bKFV2eb.png width="700> |
 
 </details>
 
@@ -59,6 +54,9 @@ Welcome to Bidding Wars were you can bid on all the best items and try to get th
 </details>
 ## :computer: Technologies Used
 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
